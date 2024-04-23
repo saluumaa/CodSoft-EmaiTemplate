@@ -1,6 +1,6 @@
 # Email Template UI/UX Design
 
-![Email Template Preview](signupMobile.png)
+![Email Template Preview](EmailTemplate.png)
 
 The Email Template UI/UX Design project aims to create visually appealing, email templates for various purposes such as marketing campaigns, newsletters, and transactional emails.
 
@@ -27,7 +27,7 @@ The Email Template UI/UX Design project aims to create visually appealing, email
 ## Design Screens
 
 ### 1. Email Template news
-![Email Template](signupMobile.png)
+![Email Template](EmailTemplate.png)
 
 
 ---
